@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielmwakanema&theme=tokyonight&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on digital health solutions for [LMIC countries](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) in Malawi, South Africa, Kenya and Zimbabwe.
+- 🔭 I’m currently working on: Digital health solutions for [LMIC countries](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) in Malawi, South Africa, Kenya and Zimbabwe.
 - ⚡ Fun fact: I maintain the greatest playlist on planet earth. Find it [here](https://deezer.page.link/GYwBcRvid2HgE5tU8).
 - 😄 Pronouns: He/Him
 - 🌱 Currently learning Policy Development and Advocacy for Global Health
