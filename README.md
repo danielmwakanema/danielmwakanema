@@ -1,6 +1,6 @@
 ### Welcome to Daniel Mwakanema.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=danielmwakanema&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=danielmwakanema&theme=tokyonight&show_icons=true&count_private=true)
 
 - 🔭 I’m currently working on digital health solutions for [LMIC countries](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries).
 - ⚡ Fun fact: I maintain the greatest playlist on planet earth. Find it [here](https://deezer.page.link/GYwBcRvid2HgE5tU8).
