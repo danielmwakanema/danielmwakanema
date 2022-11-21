@@ -2,12 +2,12 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielmwakanema&theme=tokyonight&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on: Digital health solutions for [LMIC countries](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) in Malawi, South Africa, Kenya and Zimbabwe.
+- 🔭 I’m currently working on: Digital health solutions for [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) in Malawi, South Africa, Kenya and Zimbabwe.
 - 🌱 Currently learning: Policy Development and Advocacy for Global Health
 - 🤔 I’m looking for help with: Leadership and strategy for engineering teams
 - 😄 Pronouns: He/Him
-- 💬 Ask me about: Comparative Mythology, Digital Health for LMIC countries, TypeScript and Ruby
-- ⚡ Fun fact: I maintain the greatest playlist on planet earth. Find it here [MEANINGWAVE](https://deezer.page.link/GYwBcRvid2HgE5tU8).
+- 💬 Ask me about: Comparative Mythology, Digital Health 4 LMIC, TypeScript and Ruby
+- ⚡ Fun fact: I maintain the greatest playlist on planet earth. Find @ [MEANINGWAVE](https://deezer.page.link/GYwBcRvid2HgE5tU8).
 - 📫 How to reach me: [Twitter](https://twitter.com/mwakanemadaniel), [Mail](mailto:danielmwakanema95@gmail.com), [Medium](http://danielmwakanema.com/)
 
 <!--
