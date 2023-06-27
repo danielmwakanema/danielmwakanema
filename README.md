@@ -2,8 +2,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielmwakanema&theme=tokyonight&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on: Digital health solutions for [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) in Malawi, South Africa, Kenya and Zimbabwe.
-- 🌱 Currently learning: Policy Development and Advocacy for Global Health
+- 🔭 I’m currently working on: Digital health solutions for [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) @ University of Washington.
+- 🔭 I’m currently working on: Digital solutions for climate adaptation for [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) @ NORCAP.
+- 🌱 Currently learning: Principles of Leadership
 - 🤔 I’m looking for help with: Leadership and strategy for engineering teams
 - 😄 Pronouns: He/Him
 - 💬 Ask me about: Comparative Mythology, Digital Health 4 LMIC, TypeScript and Ruby
