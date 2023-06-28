@@ -7,7 +7,7 @@
 - 🌱 Currently learning: Principles of Leadership
 - 🤔 I’m looking for help with: Leadership and strategy for engineering teams
 - 😄 Pronouns: He/Him
-- 💬 Ask me about: Comparative Mythology, Digital Health 4 LMIC, TypeScript and Ruby
+- 💬 Ask me about: Comparative Mythology, Sustainable Tech 4 LMIC, TypeScript and Ruby
 - ⚡ Fun fact: I maintain the greatest playlist on planet earth. Find it @[MEANINGWAVE](https://deezer.page.link/GYwBcRvid2HgE5tU8).
 - 📫 How to reach me: [Twitter](https://twitter.com/mwakanemadaniel), [Mail](mailto:danielmwakanema95@gmail.com), [Medium](http://danielmwakanema.com/)
 
