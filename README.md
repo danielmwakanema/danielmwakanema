@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=danielmwakanema&theme=tokyonight&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on: Climatetech in [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) @ [NORCAP](https://www.nrc.no/norcap/).
+- 🔭 I’m currently working on: Climatetech for [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) @ [NORCAP](https://www.nrc.no/norcap/).
 - 🔭 I’m currently working on: Healthtech for [LMIC](https://wellcome.org/grant-funding/guidance/low-and-middle-income-countries) @ [University of Washington](https://www.washington.edu/).
 - 🌱 Currently learning: Principles of Leadership
 - 🤔 I’m looking for help with: Leadership and strategy for engineering teams
